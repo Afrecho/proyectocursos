@@ -1,0 +1,50 @@
+[
+    {
+        "id": 1,
+        "nombre": "Juan Pérez",
+        "pais": "Argentina",
+        "cursos": ["Matemáticas", "Geometría"]
+    },
+    {
+        "id": 2,
+        "nombre": "María Gómez",
+        "pais": "Chile",
+        "cursos": ["Historia", "Ciencias Sociales"]
+    },
+    {
+        "id": 3,
+        "nombre": "Carlos Sánchez",
+        "pais": "México",
+        "cursos": ["Ciencias", "Biología"]
+    },
+    {
+        "id": 4,
+        "nombre": "Ana Torres",
+        "pais": "Perú",
+        "cursos": ["Inglés", "Literatura"]
+    },
+    {
+        "id": 5,
+        "nombre": "Luis Martínez",
+        "pais": "Colombia",
+        "cursos": ["Física", "Química"]
+    },
+    {
+        "id": 6,
+        "nombre": "Laura Ruiz",
+        "pais": "Ecuador",
+        "cursos": ["Arte", "Música"]
+    },
+    {
+        "id": 7,
+        "nombre": "Pedro López",
+        "pais": "Uruguay",
+        "cursos": ["Educación Física", "Salud"]
+    },
+    {
+        "id": 8,
+        "nombre": "Sofía Castro",
+        "pais": "Bolivia",
+        "cursos": ["Programación", "Tecnología"]
+    }
+]
