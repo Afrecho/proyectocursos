@@ -14,6 +14,7 @@ import { ref } from 'vue';
 const currentYear = ref(new Date().getFullYear());
 
 console.log(currentYear.value);
+
 const elDatazo = 'ahora no se';
 
 console.log(elDatazo);
